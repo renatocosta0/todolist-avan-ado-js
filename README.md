@@ -24,8 +24,11 @@ Demonstração
 Você pode verificar uma demonstração ao vivo aqui.
 
 Tecnologias Utilizadas
+
 HTML
+
 CSS
+
 JavaScript
 
 Estrutura do Projeto
@@ -36,5 +39,6 @@ style.css: Folha de estilo para a aparência da aplicação.
 
 script.js: Script JavaScript para a lógica da Lista de Tarefas.
 
-Contribuições
+Contribuições:
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
