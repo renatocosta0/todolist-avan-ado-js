@@ -29,6 +29,7 @@ CSS
 JavaScript
 
 Estrutura do Projeto
+
 index.html: Página principal que contém a interface da Lista de Tarefas.
 
 style.css: Folha de estilo para a aparência da aplicação.
